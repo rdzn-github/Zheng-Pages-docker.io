@@ -15,6 +15,7 @@
 
 # 一、直接配置镜像加速地址
 下面是一些第三方的镜像加速地址或者镜像代理
+
 1.镜像代理地址：
 | 提供商 | 	地址 |
 | --- | --- |
@@ -87,7 +88,7 @@ Fork副本到自己的github仓库
 1. 选择注册一个自己的域名，新用户价格比较便宜，一块钱就解决了！
 ![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/7dd20f0d8ec74bd3b212777ddda60051.png)
 2. 设置自定义域
-- 注册好之后，在回到cloudflare，点击设置自定义域![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/0c6af764f0d947acbc27c3b5f3161cfd.png)
+- 注册好之后，再回到cloudflare，点击设置自定义域![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/0c6af764f0d947acbc27c3b5f3161cfd.png)
 输入刚刚注册的域名
 ![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/7aa026004f374ec3acd359f945b3bac0.png)
 
